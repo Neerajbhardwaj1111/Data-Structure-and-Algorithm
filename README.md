@@ -7,3 +7,4 @@
 3. **Find duplicates in O(n) time** : Given an array arr[] of n elements that contains elements from 0 to n-1, with any of these numbers appearing any number of times. The task is to find the repeating numbers.
 4. **Product of Array Except Self** : Given an array arr[] of n integers, construct a product array res[] (of the same size) such that res[i] is equal to the product of all the elements of arr[] except arr[i].
 5. **Maximum Subarray** : Given an integer array arr[], find the subarray (containing at least one element) which has the maximum possible sum, and return that sum.
+6. **Maximum Product Subarray** : Given an array arr[] consisting of positive, negative, and zero values, find the maximum product that can be obtained from any contiguous subarray of arr[].
