@@ -8,3 +8,4 @@
 4. **Product of Array Except Self** : Given an array arr[] of n integers, construct a product array res[] (of the same size) such that res[i] is equal to the product of all the elements of arr[] except arr[i].
 5. **Maximum Subarray** : Given an integer array arr[], find the subarray (containing at least one element) which has the maximum possible sum, and return that sum.
 6. **Maximum Product Subarray** : Given an array arr[] consisting of positive, negative, and zero values, find the maximum product that can be obtained from any contiguous subarray of arr[].
+7. **Minimum in Rotated Sorted** : Given a sorted array of distinct elements arr[] of size n that is rotated at some unknown point, the task is to find the minimum element in it.
