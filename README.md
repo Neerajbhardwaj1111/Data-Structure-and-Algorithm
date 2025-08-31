@@ -9,3 +9,4 @@
 5. **Maximum Subarray** : Given an integer array arr[], find the subarray (containing at least one element) which has the maximum possible sum, and return that sum.
 6. **Maximum Product Subarray** : Given an array arr[] consisting of positive, negative, and zero values, find the maximum product that can be obtained from any contiguous subarray of arr[].
 7. **Minimum in Rotated Sorted** : Given a sorted array of distinct elements arr[] of size n that is rotated at some unknown point, the task is to find the minimum element in it.
+8. **Search in Rotated Sorted** : Given a sorted and rotated array arr[] of distinct elements, find the index of given key in the array. If the key is not present in the array, return -1.
