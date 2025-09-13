@@ -15,3 +15,7 @@
 11. **Trapping Rain Water Problem** : Given an array arr[] of size n consisting of non-negative integers, where each element represents the height of a bar in an elevation map and the width of each bar is 1, determine the total amount of water that can be trapped between the bars after it rains.
 12. **Merge Overlapping Intervals** : Given an array of time intervals where arr[i] = [starti, endi], our task is to merge all the overlapping intervals into one and output the result which should have only mutually exclusive intervals.
 13. **Non-overlapping intervals in an array** : Given a 2d array arr[][] of time intervals, where each interval is of the form [start, end]. The task is to determine all intervals from the given array that do not overlap with any other interval in the set. If no such interval exists, return an empty list.
+
+## MATRIX
+
+14. **Set Matrix Zeroes** : Given a boolean matrix mat where each cell contains either 0 or 1, the task is to modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its ith row and jth column will become 1.
