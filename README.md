@@ -21,3 +21,7 @@
 14. **Set Matrix Zeroes** : Given a boolean matrix mat where each cell contains either 0 or 1, the task is to modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its ith row and jth column will become 1.
 15. **Spiral Matrix** : Given a matrix mat[][] of size m x n, the task is to print all elements of the matrix in spiral form.
 16. **Program to find transpose of a matrix** : Given a 2D matrix mat[][], compute its transpose. The transpose of a matrix is formed by converting all rows of mat[][] into columns and all columns into rows.
+
+## STRING
+
+17. **Longest Substring Without Repeating Characters** : Given a string s having lowercase characters, find the length of the longest substring without repeating characters.
