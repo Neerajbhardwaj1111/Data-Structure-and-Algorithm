@@ -25,3 +25,4 @@
 ## STRING
 
 17. **Longest Substring Without Repeating Characters** : Given a string s having lowercase characters, find the length of the longest substring without repeating characters.
+18. **Maximum consecutive repeating character in string** : Given a string s, the task is to find the maximum consecutive repeating character in the string.
