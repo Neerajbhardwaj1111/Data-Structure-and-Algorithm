@@ -27,3 +27,5 @@
 17. **Longest Substring Without Repeating Characters** : Given a string s having lowercase characters, find the length of the longest substring without repeating characters.
 18. **Maximum consecutive repeating character in string** : Given a string s, the task is to find the maximum consecutive repeating character in the string.
 19. **Check if two Strings are Anagrams of each other** : Given two non-empty strings s1 and s2 of lowercase letters, determine if they are anagrams — i.e., if they contain the same characters with the same frequencies.
+20. **Group Anagrams Together** : Given an array of words arr[], the task is to groups strings that are anagrams. An anagram is a word or phrase formed by rearranging the letters of another, using all the original letters exactly once.
+
