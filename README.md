@@ -28,4 +28,5 @@
 18. **Maximum consecutive repeating character in string** : Given a string s, the task is to find the maximum consecutive repeating character in the string.
 19. **Check if two Strings are Anagrams of each other** : Given two non-empty strings s1 and s2 of lowercase letters, determine if they are anagrams — i.e., if they contain the same characters with the same frequencies.
 20. **Group Anagrams Together** : Given an array of words arr[], the task is to groups strings that are anagrams. An anagram is a word or phrase formed by rearranging the letters of another, using all the original letters exactly once.
+21. **Valid Parentheses in an Expression** : Given a string s containing three types of brackets {}, () and []. Determine whether the Expression are balanced or not. An expression is balanced if each opening bracket has a corresponding closing bracket of the same type, the pairs are properly ordered and no bracket closes before its matching opening bracket.
 
